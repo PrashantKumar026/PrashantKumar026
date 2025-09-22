@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 **B.Tech (ECE)** at *Haldia Institute of Technology*   
 - 💻 Passionate about **Fronted Web Developent **  
-- ⚡ Skilled in **HTML, CSS, JavaScript, C, C++**  
+- ⚡ Skilled in **HTML, CSS, JavaScript, Java**  
 - 🛠 Exploring **Fronted Developer**  
 - 🌟 Open to opportunities in **Web Development,  new tools**  
 
